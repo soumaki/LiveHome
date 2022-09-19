@@ -2,9 +2,11 @@
 LiveHome for KLPW 
 
  
-![Image](https://telegra.ph/file/3ea989d9f14f88f4fcf8b.jpg)
+![Image](https://telegra.ph/file/6a0b62c9d5ded110a72c2.png)
+
+![Image](https://telegra.ph/file/6c8b655dd31079e396b50.png)
  
-Inspirado na tela de bloqueio do iPhone (https://t.me/twapple/1823), 
+Inspirado na tela de bloqueio do iPhone
 
 Canal no Telegram: [Less](https://t.me/LessContent)
  
